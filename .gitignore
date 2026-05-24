@@ -8,3 +8,30 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+.env
+venv/
+logs/
+FLIPKART_RECOMMENDER.egg-info/
+
+flipbotenv
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.Python
+.env
+.env/
+venv/
+
+*.log
+logs/
+
+.vscode/
+*.egg-info
+
+dd
