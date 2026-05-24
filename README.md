@@ -1,5 +1,5 @@
 
-GET STARTED BROO now
+GET STARTED
 
 ---
 
